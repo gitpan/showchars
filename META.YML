@@ -1,0 +1,8 @@
+--- #YAML:1.0
+module_name: Showchars
+dist_version_from: script/showchars.pl
+installdirs: site
+requires:
+distribution_type: script
+license: perl
+dist_abstract: Displays characters of a file in numerical order
